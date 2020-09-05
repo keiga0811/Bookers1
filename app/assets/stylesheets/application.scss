@@ -15,6 +15,15 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+header {
+	height: 10px;
+}
+
+.topwrapper {
+	height: 10px;
+	backgroud-color: black;
+}
 .container {
 	width: 900px;
 	margin: 0 auto;
